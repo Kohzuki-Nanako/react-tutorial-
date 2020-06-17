@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "075044f9fd4933f303ff60ec2493decb",
+    "revision": "11d6ca44bd8127f7591bee6050221bb8",
     "url": "/react-tutorial-/index.html"
   },
   {
-    "revision": "921c9bcbe59ebbfd9a19",
+    "revision": "912fe133aa845b270859",
     "url": "/react-tutorial-/static/css/2.c461b815.chunk.css"
   },
   {
-    "revision": "921c9bcbe59ebbfd9a19",
-    "url": "/react-tutorial-/static/js/2.7c1be4fc.chunk.js"
+    "revision": "912fe133aa845b270859",
+    "url": "/react-tutorial-/static/js/2.8e23fe77.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-tutorial-/static/js/2.7c1be4fc.chunk.js.LICENSE.txt"
+    "url": "/react-tutorial-/static/js/2.8e23fe77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14838be987912106cdb9",
-    "url": "/react-tutorial-/static/js/main.8e2f1bb6.chunk.js"
+    "revision": "db936efa9286566f7192",
+    "url": "/react-tutorial-/static/js/main.3d82526d.chunk.js"
   },
   {
     "revision": "1a84d6838801a3f6a95a",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tutorial-/static/media/IMGP3100.652460bb.jpg"
   },
   {
+    "revision": "3e1c02c528c3a010b0168b0b906ece4e",
+    "url": "/react-tutorial-/static/media/IMGP3111.3e1c02c5.jpg"
+  },
+  {
     "revision": "8ff3c0b5f75b2796cc6061d2f2c9b5e6",
     "url": "/react-tutorial-/static/media/IMGP3198.8ff3c0b5.jpg"
   },
@@ -52,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tutorial-/static/media/IMG_0550.3b9c64fc.jpg"
   },
   {
+    "revision": "5161f06d1d81a5910cbcdc86a5714515",
+    "url": "/react-tutorial-/static/media/IMG_0775.5161f06d.jpeg"
+  },
+  {
     "revision": "80f719d0bae807feea41ccad1d6724f1",
     "url": "/react-tutorial-/static/media/IMG_0857.80f719d0.jpg"
+  },
+  {
+    "revision": "3edf7744add4221a9aed80572a6735f1",
+    "url": "/react-tutorial-/static/media/IMG_0902.3edf7744.jpeg"
   },
   {
     "revision": "11b5b87aa10d0431d5732109f49121fa",
@@ -84,6 +96,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tutorial-/static/media/IMG_2454.2b13d15a.jpeg"
   },
   {
+    "revision": "009be9bd9f7f8e9ffbdcc01d919efbe1",
+    "url": "/react-tutorial-/static/media/IMG_3539.009be9bd.jpeg"
+  },
+  {
+    "revision": "b455304ad3b0cc99f3d6284d6945d644",
+    "url": "/react-tutorial-/static/media/IMG_3594.b455304a.jpeg"
+  },
+  {
+    "revision": "6b4d1686b69bb0ceb205b849d6147fba",
+    "url": "/react-tutorial-/static/media/IMG_3712.6b4d1686.jpeg"
+  },
+  {
     "revision": "36a6bac00d47d0952f6a62710eadc500",
     "url": "/react-tutorial-/static/media/IMG_5772.36a6bac0.jpeg"
   },
@@ -92,8 +116,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tutorial-/static/media/IMG_8225.4ac7f202.jpg"
   },
   {
+    "revision": "4c14efc6e90f21806af600cdffc8976b",
+    "url": "/react-tutorial-/static/media/IMG_8702.4c14efc6.jpg"
+  },
+  {
     "revision": "38747c34e00734f9ea03e0a7cbd347d0",
     "url": "/react-tutorial-/static/media/IMG_8912.38747c34.jpg"
+  },
+  {
+    "revision": "dc32fb2680c0d434383ba91e30ea025c",
+    "url": "/react-tutorial-/static/media/IMG_9693.dc32fb26.jpg"
+  },
+  {
+    "revision": "0471ec38a32d986b19e1a2739f024ae5",
+    "url": "/react-tutorial-/static/media/IMG_9709.0471ec38.jpg"
+  },
+  {
+    "revision": "2cebe4b39419a3551304ed1e6360d021",
+    "url": "/react-tutorial-/static/media/IMG_9746.2cebe4b3.jpeg"
   },
   {
     "revision": "e7cf07a52ee07f424debe40a513f4e0b",
@@ -102,6 +142,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cfe78dcef51962ea8ad06afd7ea379ce",
     "url": "/react-tutorial-/static/media/IMG_9862.cfe78dce.jpg"
+  },
+  {
+    "revision": "9c3c215dac714aea596ef50a355d4ad9",
+    "url": "/react-tutorial-/static/media/IMG_9873.9c3c215d.jpg"
+  },
+  {
+    "revision": "c5818e721b6445fefebb8c7ddd5fd157",
+    "url": "/react-tutorial-/static/media/IMG_9957.c5818e72.jpg"
   },
   {
     "revision": "de7e30ec18ad85f2bf4289d4e6c573e1",
@@ -142,6 +190,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0261db2fe867bd10fa2491abb95bbae0",
     "url": "/react-tutorial-/static/media/kisspng-visual-studio-code-microsoft-visual-studio-source-c-5acd3e97a1c707.4865550215234003436627.0261db2f.png"
+  },
+  {
+    "revision": "82ed5a86f4f99cdb8aa387075d62882f",
+    "url": "/react-tutorial-/static/media/original.82ed5a86.jpg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
