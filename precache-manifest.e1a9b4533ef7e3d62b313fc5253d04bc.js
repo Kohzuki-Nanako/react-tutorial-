@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e014140a0197e1f8bfe710517d826e59",
+    "revision": "aa0eb871a233aeeb7016320ddfd67c19",
     "url": "/react-tutorial-/index.html"
   },
   {
-    "revision": "3d52f4d5f8f870e1f638",
+    "revision": "e6342753d2b97c2dc61b",
     "url": "/react-tutorial-/static/css/2.c461b815.chunk.css"
   },
   {
-    "revision": "3d52f4d5f8f870e1f638",
-    "url": "/react-tutorial-/static/js/2.d6a23cda.chunk.js"
+    "revision": "e6342753d2b97c2dc61b",
+    "url": "/react-tutorial-/static/js/2.5d6a5fd6.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-tutorial-/static/js/2.d6a23cda.chunk.js.LICENSE.txt"
+    "url": "/react-tutorial-/static/js/2.5d6a5fd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1d2a713f869ccd73761",
-    "url": "/react-tutorial-/static/js/main.2ff1b918.chunk.js"
+    "revision": "ee9ec30d9bc4ab29baed",
+    "url": "/react-tutorial-/static/js/main.a88dd5fe.chunk.js"
   },
   {
     "revision": "1a84d6838801a3f6a95a",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d36d27dff93fa683dcdf0b329bd82034",
     "url": "/react-tutorial-/static/media/IMGP3214.d36d27df.jpg"
+  },
+  {
+    "revision": "f00d6b638b0c4f52cc8e4ea2cbc357d1",
+    "url": "/react-tutorial-/static/media/IMG_1457.f00d6b63.JPG"
   },
   {
     "revision": "735604b55484a6fcda03fa08de8b4bb4",
