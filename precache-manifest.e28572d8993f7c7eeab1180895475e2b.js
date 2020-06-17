@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c60c96e81e02580e3e582d85d6a4273f",
+    "revision": "606ed99d4970b1a782942f4d6238676b",
     "url": "/react-tutorial-/index.html"
   },
   {
-    "revision": "6622b78a4ca945b09b96",
+    "revision": "c420f49c048a1661aaaf",
     "url": "/react-tutorial-/static/css/2.0c0672e5.chunk.css"
   },
   {
-    "revision": "6622b78a4ca945b09b96",
-    "url": "/react-tutorial-/static/js/2.4830d16f.chunk.js"
+    "revision": "c420f49c048a1661aaaf",
+    "url": "/react-tutorial-/static/js/2.118442f3.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-tutorial-/static/js/2.4830d16f.chunk.js.LICENSE.txt"
+    "url": "/react-tutorial-/static/js/2.118442f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "137728754f316237c3a6",
-    "url": "/react-tutorial-/static/js/main.9c0ac8f7.chunk.js"
+    "revision": "e09fc11b8d9475cab7e8",
+    "url": "/react-tutorial-/static/js/main.411ad03d.chunk.js"
   },
   {
     "revision": "1a84d6838801a3f6a95a",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e45ebd5258d77392cb78ceb7b3133eeb",
     "url": "/react-tutorial-/static/media/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b4ec817.2080142615351082033227.e45ebd52.png"
+  },
+  {
+    "revision": "696955d01c93e61c71abe30c692405fb",
+    "url": "/react-tutorial-/static/media/kisspng-logo-brand-font-cpr-5b2389c53733c0.9425013215290556852261.696955d0.png"
   },
   {
     "revision": "913b527bab01c106d04cb160a278a25a",
