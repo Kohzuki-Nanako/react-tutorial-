@@ -1,27 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6ccb6c0463de93fcaa25eee9b03fda8",
+    "revision": "590b882616b31b70fec7457feae41321",
     "url": "/react-tutorial-/index.html"
   },
   {
-    "revision": "0c92729a33b6f30354ba",
+    "revision": "6622b78a4ca945b09b96",
     "url": "/react-tutorial-/static/css/2.0c0672e5.chunk.css"
   },
   {
-    "revision": "0c92729a33b6f30354ba",
-    "url": "/react-tutorial-/static/js/2.095c503b.chunk.js"
+    "revision": "6622b78a4ca945b09b96",
+    "url": "/react-tutorial-/static/js/2.4830d16f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-tutorial-/static/js/2.095c503b.chunk.js.LICENSE.txt"
+    "url": "/react-tutorial-/static/js/2.4830d16f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb6a4317ff6b812909e3",
-    "url": "/react-tutorial-/static/js/main.8bb45b4a.chunk.js"
+    "revision": "9930a38d881f5b7e5581",
+    "url": "/react-tutorial-/static/js/main.f19b7600.chunk.js"
   },
   {
     "revision": "1a84d6838801a3f6a95a",
     "url": "/react-tutorial-/static/js/runtime-main.02668f7b.js"
+  },
+  {
+    "revision": "d1630f909d2823ad0671eb4410c9560c",
+    "url": "/react-tutorial-/static/media/IMGP3019.d1630f90.jpg"
+  },
+  {
+    "revision": "652460bbb17d4fc5a254f46ab30712f5",
+    "url": "/react-tutorial-/static/media/IMGP3100.652460bb.jpg"
+  },
+  {
+    "revision": "8ff3c0b5f75b2796cc6061d2f2c9b5e6",
+    "url": "/react-tutorial-/static/media/IMGP3198.8ff3c0b5.jpg"
+  },
+  {
+    "revision": "d36d27dff93fa683dcdf0b329bd82034",
+    "url": "/react-tutorial-/static/media/IMGP3214.d36d27df.jpg"
   },
   {
     "revision": "f00d6b638b0c4f52cc8e4ea2cbc357d1",
