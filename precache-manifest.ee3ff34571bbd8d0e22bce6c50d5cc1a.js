@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b34759f6f5b4378d6fa798a231d177b",
+    "revision": "4888a87606c31e1abb100676bb73187c",
     "url": "/react-tutorial-/index.html"
   },
   {
-    "revision": "83caaaf5bbebc3391f06",
-    "url": "/react-tutorial-/static/css/2.0c0672e5.chunk.css"
+    "revision": "3d52f4d5f8f870e1f638",
+    "url": "/react-tutorial-/static/css/2.c461b815.chunk.css"
   },
   {
-    "revision": "83caaaf5bbebc3391f06",
-    "url": "/react-tutorial-/static/js/2.d6da179d.chunk.js"
+    "revision": "3d52f4d5f8f870e1f638",
+    "url": "/react-tutorial-/static/js/2.d6a23cda.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-tutorial-/static/js/2.d6da179d.chunk.js.LICENSE.txt"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/react-tutorial-/static/js/2.d6a23cda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "775e894fa124b8b8fe08",
-    "url": "/react-tutorial-/static/js/main.b016a955.chunk.js"
+    "revision": "0f8d2ee5911d7a4ab454",
+    "url": "/react-tutorial-/static/js/main.4aa0c4f3.chunk.js"
   },
   {
     "revision": "1a84d6838801a3f6a95a",
@@ -98,6 +98,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0261db2fe867bd10fa2491abb95bbae0",
     "url": "/react-tutorial-/static/media/kisspng-visual-studio-code-microsoft-visual-studio-source-c-5acd3e97a1c707.4865550215234003436627.0261db2f.png"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/react-tutorial-/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/react-tutorial-/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/react-tutorial-/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/react-tutorial-/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "d2d3c680f0297a037b7887e8a7f5c93e",
