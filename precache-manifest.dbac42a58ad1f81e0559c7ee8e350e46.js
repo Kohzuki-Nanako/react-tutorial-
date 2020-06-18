@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b89740481bc015a80d5ecf41250648d9",
+    "revision": "afa747818c3e0ab0d144ef41ada9beb4",
     "url": "/react-tutorial-/index.html"
   },
   {
-    "revision": "912fe133aa845b270859",
+    "revision": "ae69be230247bc855a55",
     "url": "/react-tutorial-/static/css/2.c461b815.chunk.css"
   },
   {
-    "revision": "912fe133aa845b270859",
-    "url": "/react-tutorial-/static/js/2.8e23fe77.chunk.js"
+    "revision": "ae69be230247bc855a55",
+    "url": "/react-tutorial-/static/js/2.50dbc099.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-tutorial-/static/js/2.8e23fe77.chunk.js.LICENSE.txt"
+    "url": "/react-tutorial-/static/js/2.50dbc099.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f05b4cc7f85f70470b01",
-    "url": "/react-tutorial-/static/js/main.18d514fc.chunk.js"
+    "revision": "0505b45fe9d8f36dce34",
+    "url": "/react-tutorial-/static/js/main.d33e8b25.chunk.js"
   },
   {
     "revision": "1a84d6838801a3f6a95a",
@@ -92,8 +92,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tutorial-/static/media/IMG_1518.37d8f6c4.PNG"
   },
   {
+    "revision": "abd9444038a041f8d1df8ced0d2016f3",
+    "url": "/react-tutorial-/static/media/IMG_1824.abd94440.jpeg"
+  },
+  {
     "revision": "2b13d15a5683d4e8f1e8a8df2f60f513",
     "url": "/react-tutorial-/static/media/IMG_2454.2b13d15a.jpeg"
+  },
+  {
+    "revision": "8d36b50e2fbfed8fe2975db4367a494a",
+    "url": "/react-tutorial-/static/media/IMG_3253.8d36b50e.jpeg"
   },
   {
     "revision": "009be9bd9f7f8e9ffbdcc01d919efbe1",
@@ -108,8 +116,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tutorial-/static/media/IMG_3712.6b4d1686.jpeg"
   },
   {
+    "revision": "3a6f8153e17e1216078ab58629acc1cb",
+    "url": "/react-tutorial-/static/media/IMG_3730.3a6f8153.jpg"
+  },
+  {
+    "revision": "1f73c8d1899f52c778714a853e1d134e",
+    "url": "/react-tutorial-/static/media/IMG_3731.1f73c8d1.jpg"
+  },
+  {
     "revision": "36a6bac00d47d0952f6a62710eadc500",
     "url": "/react-tutorial-/static/media/IMG_5772.36a6bac0.jpeg"
+  },
+  {
+    "revision": "59c70e7ccda64de4a00e630643beafd3",
+    "url": "/react-tutorial-/static/media/IMG_7871.59c70e7c.jpeg"
   },
   {
     "revision": "4ac7f20280494a4e5c5f80d020dd2a3d",
@@ -118,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4c14efc6e90f21806af600cdffc8976b",
     "url": "/react-tutorial-/static/media/IMG_8702.4c14efc6.jpg"
+  },
+  {
+    "revision": "a7d0cdf619199ed43aa3254f68887880",
+    "url": "/react-tutorial-/static/media/IMG_8794.a7d0cdf6.jpeg"
   },
   {
     "revision": "38747c34e00734f9ea03e0a7cbd347d0",

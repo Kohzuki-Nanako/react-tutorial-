@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-tutorial-/static/js/main.18d514fc.chunk.js",
-    "main.js.map": "/react-tutorial-/static/js/main.18d514fc.chunk.js.map",
+    "main.js": "/react-tutorial-/static/js/main.d33e8b25.chunk.js",
+    "main.js.map": "/react-tutorial-/static/js/main.d33e8b25.chunk.js.map",
     "runtime-main.js": "/react-tutorial-/static/js/runtime-main.02668f7b.js",
     "runtime-main.js.map": "/react-tutorial-/static/js/runtime-main.02668f7b.js.map",
     "static/css/2.c461b815.chunk.css": "/react-tutorial-/static/css/2.c461b815.chunk.css",
-    "static/js/2.8e23fe77.chunk.js": "/react-tutorial-/static/js/2.8e23fe77.chunk.js",
-    "static/js/2.8e23fe77.chunk.js.map": "/react-tutorial-/static/js/2.8e23fe77.chunk.js.map",
+    "static/js/2.50dbc099.chunk.js": "/react-tutorial-/static/js/2.50dbc099.chunk.js",
+    "static/js/2.50dbc099.chunk.js.map": "/react-tutorial-/static/js/2.50dbc099.chunk.js.map",
     "index.html": "/react-tutorial-/index.html",
-    "precache-manifest.1db2e0d65ffe561ff30370c104508db3.js": "/react-tutorial-/precache-manifest.1db2e0d65ffe561ff30370c104508db3.js",
+    "precache-manifest.dbac42a58ad1f81e0559c7ee8e350e46.js": "/react-tutorial-/precache-manifest.dbac42a58ad1f81e0559c7ee8e350e46.js",
     "service-worker.js": "/react-tutorial-/service-worker.js",
     "static/css/2.c461b815.chunk.css.map": "/react-tutorial-/static/css/2.c461b815.chunk.css.map",
-    "static/js/2.8e23fe77.chunk.js.LICENSE.txt": "/react-tutorial-/static/js/2.8e23fe77.chunk.js.LICENSE.txt",
+    "static/js/2.50dbc099.chunk.js.LICENSE.txt": "/react-tutorial-/static/js/2.50dbc099.chunk.js.LICENSE.txt",
     "static/media/24CBE432-BBFC-47CF-BACF-F558878FF485.jpg": "/react-tutorial-/static/media/24CBE432-BBFC-47CF-BACF-F558878FF485.200d10ee.jpg",
     "static/media/B78E1DB3-21D0-47E0-85F0-FA9AF67518DC.jpeg": "/react-tutorial-/static/media/B78E1DB3-21D0-47E0-85F0-FA9AF67518DC.25e8cb41.jpeg",
     "static/media/IMGP3019.jpg": "/react-tutorial-/static/media/IMGP3019.d1630f90.jpg",
@@ -29,13 +29,19 @@
     "static/media/IMG_1474.jpg": "/react-tutorial-/static/media/IMG_1474.735604b5.jpg",
     "static/media/IMG_1511.jpg": "/react-tutorial-/static/media/IMG_1511.bd868904.jpg",
     "static/media/IMG_1518.PNG": "/react-tutorial-/static/media/IMG_1518.37d8f6c4.PNG",
+    "static/media/IMG_1824.jpeg": "/react-tutorial-/static/media/IMG_1824.abd94440.jpeg",
     "static/media/IMG_2454.jpeg": "/react-tutorial-/static/media/IMG_2454.2b13d15a.jpeg",
+    "static/media/IMG_3253.jpeg": "/react-tutorial-/static/media/IMG_3253.8d36b50e.jpeg",
     "static/media/IMG_3539.jpeg": "/react-tutorial-/static/media/IMG_3539.009be9bd.jpeg",
     "static/media/IMG_3594.jpeg": "/react-tutorial-/static/media/IMG_3594.b455304a.jpeg",
     "static/media/IMG_3712.jpeg": "/react-tutorial-/static/media/IMG_3712.6b4d1686.jpeg",
+    "static/media/IMG_3730.jpg": "/react-tutorial-/static/media/IMG_3730.3a6f8153.jpg",
+    "static/media/IMG_3731.jpg": "/react-tutorial-/static/media/IMG_3731.1f73c8d1.jpg",
     "static/media/IMG_5772.jpeg": "/react-tutorial-/static/media/IMG_5772.36a6bac0.jpeg",
+    "static/media/IMG_7871.jpeg": "/react-tutorial-/static/media/IMG_7871.59c70e7c.jpeg",
     "static/media/IMG_8225.jpg": "/react-tutorial-/static/media/IMG_8225.4ac7f202.jpg",
     "static/media/IMG_8702.jpg": "/react-tutorial-/static/media/IMG_8702.4c14efc6.jpg",
+    "static/media/IMG_8794.jpeg": "/react-tutorial-/static/media/IMG_8794.a7d0cdf6.jpeg",
     "static/media/IMG_8912.jpg": "/react-tutorial-/static/media/IMG_8912.38747c34.jpg",
     "static/media/IMG_9693.jpg": "/react-tutorial-/static/media/IMG_9693.dc32fb26.jpg",
     "static/media/IMG_9709.jpg": "/react-tutorial-/static/media/IMG_9709.0471ec38.jpg",
@@ -61,7 +67,7 @@
   "entrypoints": [
     "static/js/runtime-main.02668f7b.js",
     "static/css/2.c461b815.chunk.css",
-    "static/js/2.8e23fe77.chunk.js",
-    "static/js/main.18d514fc.chunk.js"
+    "static/js/2.50dbc099.chunk.js",
+    "static/js/main.d33e8b25.chunk.js"
   ]
 }
